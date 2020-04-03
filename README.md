@@ -1,4 +1,4 @@
-## Webpack5 Module Federation Example For Vue
+## Webpack5 Module Federation For Vue
 
 ## 1. 安装依赖
 ``` bash

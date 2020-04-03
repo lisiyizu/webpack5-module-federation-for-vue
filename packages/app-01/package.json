@@ -1,0 +1,8 @@
+{
+  "name": "app-01",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production"
+  }
+}

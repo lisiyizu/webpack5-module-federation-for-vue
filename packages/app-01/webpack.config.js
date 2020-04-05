@@ -52,7 +52,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: "./public/index.html",
             inject: true,
-            title: '测试'
+            title: 'app_01 测试'
         }),
         //开发环境下的baseURL
         new webpack.DefinePlugin({

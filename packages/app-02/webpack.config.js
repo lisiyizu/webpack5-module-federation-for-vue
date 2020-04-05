@@ -46,7 +46,7 @@ module.exports = {
                 Hello: './src/views/Hello',
                 Module: './src/views/Module'
             },
-            shared: ["vue", "vue-router", "vuex", '@/scripts/request', 'element-ui', 'axios', 'qs']
+            shared: ["vue", "vue-router", "vuex", 'element-ui', 'axios', 'qs']
         }),
         new HtmlWebpackPlugin({
             template: "./public/index.html",
